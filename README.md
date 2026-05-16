@@ -1,144 +1,98 @@
 <div align="center">
 
-# 📦 DEPOSITO_INTELIGENTE
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2B1D0E,35:D97706,70:FBBF24,100:2B1D0E&text=Depósito%20Inteligente&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Smart%20Inventory%20Management%20System&descAlignY=58"/>
 
-### Sistema inteligente para gerenciamento e organização de estoque
+</div>
 
-<img src="https://img.shields.io/badge/status-em%20desenvolvimento-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/license-MIT-black?style=for-the-badge"/>
+<div align="center">
 
-<br><br>
-
-🔗 **Acesse o projeto:**
-https://lorenscript.github.io/DEPOSITO_INTELIGENTE/
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=2800&pause=1000&color=FBBF24&center=true&vCenter=true&width=850&lines=Smart+Inventory+Management+System;Modern+Warehouse+Organization;Built+with+HTML+CSS+%26+JavaScript;Technology+Inspired+by+Storage+Systems"/>
 
 </div>
 
 ---
 
-# 🧠 Visão geral
+# ✦ About The Project
 
-O **Depósito Inteligente** é um projeto web desenvolvido com foco em organização, gerenciamento visual e praticidade no controle de estoque.
+```txt
+📦 Depósito Inteligente is a modern inventory
+management platform inspired by warehouse systems
+and smart organization concepts.
 
-A aplicação foi criada para simular um sistema moderno de armazenamento e gerenciamento de produtos, utilizando uma interface limpa, responsiva e intuitiva.
-
-O projeto também representa um estudo prático em desenvolvimento front-end, organização de componentes e criação de interfaces voltadas para sistemas administrativos.
-
----
-
-# ⚙️ Principais recursos
-
-* 📦 Organização visual de produtos
-* 📱 Interface responsiva
-* 🎨 Design moderno e minimalista
-* ⚡ Navegação simples e intuitiva
-* 🖥️ Estrutura otimizada para web
-* 📋 Sistema visual de gerenciamento
+Developed with a responsive and interactive
+interface, the project combines technology,
+efficiency and modern web design.
+```
 
 ---
 
-# 🚀 Tecnologias
+# ✦ Features
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
+| Feature | Description |
+|---|---|
+| 📦 Inventory Control | Product organization and management |
+| 🧾 Smart System | Optimized storage concepts |
+| 📱 Responsive Design | Works across multiple devices |
+| 🎨 Industrial UI | Inspired by warehouse aesthetics |
 
 </div>
 
-<br>
-
-| Tecnologia | Descrição                        |
-| ---------- | -------------------------------- |
-| HTML5      | Estrutura da aplicação           |
-| CSS3       | Estilização e responsividade     |
-| JavaScript | Funcionalidades e interatividade |
-| Git        | Controle de versão               |
-| GitHub     | Hospedagem e versionamento       |
-| VS Code    | Ambiente de desenvolvimento      |
-
 ---
 
-# 📂 Estrutura do projeto
-
-```bash
-DEPOSITO_INTELIGENTE/
-│
-├── assets/
-│   ├── images/
-│   └── icons/
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── index.html
-└── README.md
-```
-
----
-
-# 💻 Executando localmente
-
-## Clone o repositório
-
-```bash
-git clone https://github.com/lorenscript/DEPOSITO_INTELIGENTE.git
-```
-
----
-
-## Entre na pasta do projeto
-
-```bash
-cd DEPOSITO_INTELIGENTE
-```
-
----
-
-## Abra o projeto
-
-Execute o arquivo `index.html` no navegador
-ou utilize a extensão **Live Server** no VS Code.
-
----
-
-# 🎯 Objetivos do projeto
-
-Este projeto foi desenvolvido para:
-
-* aprimorar conhecimentos em front-end;
-* praticar desenvolvimento de interfaces;
-* trabalhar responsividade;
-* organizar aplicações web;
-* desenvolver soluções voltadas para gerenciamento.
-
----
-
-# 📚 Conhecimentos aplicados
-
-Durante o desenvolvimento foram aplicados conceitos como:
-
-* estruturação semântica;
-* responsividade;
-* design de interface;
-* organização de código;
-* manipulação de elementos com JavaScript;
-* boas práticas de desenvolvimento web.
-
----
-
-# 👩‍💻 Desenvolvedora
+# ✦ Technologies
 
 <div align="center">
 
-## Lorena
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=dark"/>
 
-Estudante de Ciência da Computação
-Desenvolvedora focada em tecnologia, criatividade e inovação.
+</div>
 
-🔗 GitHub: https://github.com/lorenscript
+---
+
+# ✦ Project Structure
+
+```txt
+📂 deposito-inteligente
+ ┣ 📂 assets
+ ┣ 📂 css
+ ┣ 📂 js
+ ┣ 📄 index.html
+ ┗ 📄 README.md
+```
+
+---
+
+# ✦ Live Project
+
+<div align="center">
+
+<a href="https://lorenscript.github.io/DEPOSITO_INTELIGENTE/">
+<img src="https://img.shields.io/badge/View%20Website-D97706?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ✦ Development Focus
+
+```txt
+✔ Inventory Management Concepts
+✔ Responsive Web Development
+✔ UI/UX Design
+✔ Interactive Interfaces
+✔ Modern Front-End Technologies
+```
+
+---
+
+# ✦ Author
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Lorena%20Gontijo-2B1D0E?style=for-the-badge&logo=github&logoColor=FBBF24"/>
 
 </div>
 
@@ -146,6 +100,6 @@ Desenvolvedora focada em tecnologia, criatividade e inovação.
 
 <div align="center">
 
-### ⭐ Se gostou do projeto, considere deixar uma estrela no repositório.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2B1D0E,35:D97706,70:FBBF24,100:2B1D0E"/>
 
 </div>
